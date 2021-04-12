@@ -18,8 +18,4 @@ class Circle{
     set circumference(num){
         this.radius = (num/3.14)/2
     }
-
-    // set area(){
-    //     this._area = area
-    // }
 }
